@@ -1,7 +1,7 @@
 # TeamViewer — Remote Desktop, Device Control & Secure Cross-Platform Access 
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/TeamViewer_Logo.png" width="210" alt="TeamViewer Logo">
+  <img src="https://img.ixbt.site/live/topics/preview/00/12/77/38/84b8df0bc7.png" width="210" alt="TeamViewer Logo">
 </div>
 
 <p align="center">
